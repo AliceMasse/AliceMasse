@@ -12,36 +12,41 @@ Contact:
     Location: Paris, France 🏙️
 
 Professional Experiences:
-> Orange Cyberdefense IWS: IT Engineer - Development & Data Analyst (2023-2024)
-> Orange OWF W&IN: Data Scientist (2021-2023)
-> National Assembly: IT Consultant for Member of Parliament (2021)
+
+    > Orange Cyberdefense IWS: IT Engineer - Development & Data Analyst (2023-2024)
+    > Orange OWF W&IN: Data Scientist (2021-2023)
+    > National Assembly: IT Consultant for Member of Parliament (2021)
 
 Technical Skills:
-> Programming: Python, Power BI (DAX & Power Fx), HTML, CSS, JS, C#
-> Data Analytics: Big Data Analytics, Dashboards & Automation, ETL
-> Networking: Network security
-> Other: Linux, GitHub
+
+    > Programming: Python, Power BI (DAX & Power Fx), HTML, CSS, JS, C#
+    > Data Analytics: Big Data Analytics, Dashboards & Automation, ETL
+    > Networking: Network security
+    > Other: Linux, GitHub
 
 Languages:
-> French (Native) 🇫🇷
-> English (TOEIC C1) 🇺🇸 🇬🇧
-> Spanish (A2) 🇪🇸
-> Polish (Beginner) 🇵🇱
+    
+    > French (Native) 🇫🇷
+    > English (TOEIC C1) 🇺🇸 🇬🇧
+    > Spanish (A2) 🇪🇸
+    > Polish (Beginner) 🇵🇱
 
 Soft Skills:
-> Attention to detail
-> Problem-solving
-> Ethical mindset
-> Curiosity
-> Creative
-> Teamplayer
-> Initiative-taking
-> Prioritization
+
+    > Attention to detail
+    > Problem-solving
+    > Ethical mindset
+    > Curiosity
+    > Creative
+    > Teamplayer
+    > Initiative-taking
+    > Prioritization
 
 Hobbies:
-> Sports: Horse riding 🏇🏼, trekking 🚶🏼‍♀️, windsurfing 🌊, running 🏃🏼‍♀️
-> Art: Exhibitions 🖼️, museums 🏛️, drawing 👩🏼‍🎨
-> Video editing & publication 🎬
+
+    > Sports: Horse riding 🏇🏼, trekking 🚶🏼‍♀️, windsurfing 🌊, running 🏃🏼‍♀️
+    > Art: Exhibitions 🖼️, museums 🏛️, drawing 👩🏼‍🎨
+    > Video editing & publication 🎬
 
 
 
