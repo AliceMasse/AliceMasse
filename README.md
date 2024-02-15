@@ -9,7 +9,6 @@ About me: I'm passionate about cybersecurity and constantly seek to learn and im
 Contact:
 
     Email: alice.masse@orange.fr 📧
-    Phone: +33 7 89 51 46 11 📱
     Location: Paris, France 🏙️
 
 Professional Experiences:
